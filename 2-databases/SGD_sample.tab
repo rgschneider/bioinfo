@@ -1,0 +1,30 @@
+S000002143	ORF	Dubious	YAL069W			chromosome 1
+S000031098	CDS					YAL069W
+S000028594	ORF	Dubious	YAL068W-A			chromosome 1
+S000031372	CDS					YAL068W-A
+S000121252	ARS		ARS102		ARSI-1	chromosome 1
+S000028862	telomere		TEL01L			chromosome 1
+S000028864	telomeric_repeat					TEL01L
+S000028865	X_element					TEL01L
+S000028866	X_element_combinatorial_repeat					TEL01L
+S000002142	ORF	Verified	YAL068C	PAU8	seripauperin PAU8	chromosome 1
+S000030944	CDS					YAL068C
+S000028593	ORF	Uncharacterized	YAL067W-A			chromosome 1
+S000031368	CDS					YAL067W-A
+S000121253	ARS		ARS103		ARSI-8	chromosome 1
+S000000062	ORF	Verified	YAL067C	SEO1	putative permease SEO1	chromosome 1
+S000029932	CDS					YAL067C
+S000000061	ORF	Dubious	YAL066W			chromosome 1
+S000029887	CDS					YAL066W
+S000001817	ORF	Uncharacterized	YAL065C			chromosome 1
+S000037154	CDS					YAL065C
+S000002141	ORF	Uncharacterized	YAL064W-B			chromosome 1
+S000034793	CDS					YAL064W-B
+S000002140	ORF	Uncharacterized	YAL064C-A	TDA8	YAL065C-A	chromosome 1
+S000031541	CDS					YAL064C-A
+S000000060	ORF	Verified	YAL064W			chromosome 1
+S000037087	CDS					YAL064W
+S000006787	long_terminal_repeat		YALWdelta1			chromosome 1
+S000028813	ORF	Uncharacterized	YAL063C-A			chromosome 1
+S000033613	CDS					YAL063C-A
+S000000059	ORF	Verified	YAL063C	FLO9	flocculin FLO9	chromosome 1

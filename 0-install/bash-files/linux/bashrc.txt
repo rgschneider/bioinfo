@@ -1,0 +1,26 @@
+# Perfil Bash mínimo
+
+# Activa colores para ls -> diferencia tipos de archivos
+alias ls='ls -h --color'
+
+# Versiones seguras de comandos usuales.
+# Lo dejo comentado para que aprendan a usarlo en modo default
+#alias rm='rm -i'
+#alias mv='mv -i'
+#alias cp='cp -i'
+
+# Extiende el PATH para búsqueda de programas y agrega el directorio ~/bin.
+export PATH=~/bin:$PATH
+
+# Corrige un error de PATH en la instalación de conda que surge en algunas instalaciones
+export PATH=~/miniconda3/bin:$PATH
+
+# Hace el prompt más amigable
+export PS1='\[\e]0;\w\a\]\n\[\e[32m\]\u@\h \[\e[33m\]\w\[\e[0m\]\n\$ '
+
+# Esto es requerido para que Entrez funcione bien
+# Disables strict checking of an encryption page.
+export PERL_LWP_SSL_VERIFY_HOSTNAME=0
+
+# Necesario para que sort funcione correctamente.
+export LC_ALL=C

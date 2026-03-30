@@ -1,0 +1,23 @@
+# Perfil Bash mínimo
+
+# Agrega colores a ls para diferenciar los tipos de archivos
+alias ls='ls -hG'
+
+# Versiones seguras de comandos usuales
+# Lo comento para que se acostumbren a usarlos como es por defecto.
+#alias rm='rm -i'
+#alias mv='mv -i'
+#alias cp='cp -i'
+
+# Extiende el PATH de búsqueda de programas y agrega ~/bin folder.
+export PATH=~/bin:$PATH
+
+# Hace el prompt más amigable
+export PS1='\[\e]0;\w\a\]\n\[\e[32m\]\u@\h \[\e[33m\]\w\[\e[0m\]\n\$ '
+
+# Esto es requerido para que Entrez Directo funcione
+# Disables strict checking of an encryption page.
+export PERL_LWP_SSL_VERIFY_HOSTNAME=0
+
+# Necesario para que sort funcione correctamente.
+export LC_ALL=C

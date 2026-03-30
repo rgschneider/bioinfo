@@ -1,0 +1,100 @@
+LOCUS       A00002                   194 bp    DNA     linear   PAT 10-FEB-1993
+DEFINITION  B.taurus DNA sequence 1 from patent application EP0238993.
+ACCESSION   A00002
+VERSION     A00002.1
+KEYWORDS    .
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+REFERENCE   1  (bases 1 to 194)
+  AUTHORS   Auerswald,E.A., Schroeder,W., Schnabel,E., Bruns,W., Reinhardt,G.
+            and Kotick,M.
+  TITLE     Aprotinin homologues produced by genetic engineering
+  JOURNAL   Patent: EP 0238993-A2 1 30-SEP-1987;
+            BAYER AG
+FEATURES             Location/Qualifiers
+     source          1..194
+                     /organism="Bos taurus"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9913"
+ORIGIN      
+        1 aattcatgcg tccggacttc tgcctcgagc cgccgtacac tgggccctgc aaagctcgta
+       61 tcatccgtta cttctacaat gcaaaggcag gcctgtgtca gaccttcgta tacggcggtt
+      121 gccgtgctaa gcgtaacaac ttcaaatccg cggaagactg cgaacgtact tgcggtggtc
+      181 cttagtaaag cttg
+//
+
+LOCUS       A00003                   194 bp    DNA     linear   PAT 10-FEB-1993
+DEFINITION  B.taurus DNA sequence 2 from patent application EP0238993.
+ACCESSION   A00003
+VERSION     A00003.1
+KEYWORDS    .
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+REFERENCE   1  (bases 1 to 194)
+  AUTHORS   Auerswald,E.A., Schroeder,W., Schnabel,E., Bruns,W., Reinhardt,G.
+            and Kotick,M.
+  TITLE     Aprotinin homologues produced by genetic engineering
+  JOURNAL   Patent: EP 0238993-A2 2 30-SEP-1987;
+            BAYER AG
+FEATURES             Location/Qualifiers
+     source          1..194
+                     /organism="Bos taurus"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:9913"
+ORIGIN      
+        1 caagctttac taaggaccac cgcaagtacg ttcgcagtct tccgcggatt tgaagttgtt
+       61 acgcttagca cggcaaccgc cgtatacgaa ggtctgacac aggcctgcct ttgcattgta
+      121 gaagtaacgg atgatacgag ctttgcaggg cccagtgtac ggcggctcga ggcagaagtc
+      181 cggacgcatg aatt
+//
+
+LOCUS       X17276                   556 bp    DNA     linear   MAM 26-FEB-1992
+DEFINITION  Giant Panda satellite 1 DNA.
+ACCESSION   X17276
+VERSION     X17276.1
+KEYWORDS    satellite 1 DNA; satellite DNA.
+SOURCE      Ailuropoda melanoleuca (giant panda)
+  ORGANISM  Ailuropoda melanoleuca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Ursidae;
+            Ailuropoda.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Wu,Z.A., Liu,W.X., Murphy,C. and Gall,J.
+  TITLE     Satellite 1 DNA sequence from genomic DNA of the giant panda
+            Ailuropoda melanoleuca
+  JOURNAL   Nucleic Acids Res. 18 (4), 1054 (1990)
+   PUBMED   2315021
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Gall,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-1989) Gall J., Carnegie Institution, 115 West
+            University Parkway, Baltimore MD 21210, U S A
+COMMENT     Data kindly reviewed (17-APR-1990) by Gall J.
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Ailuropoda melanoleuca"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9646"
+                     /clone="pAmeS1-5"
+                     /tissue_type="liver"
+                     /clone_lib="pBR322"
+                     /dev_stage="adult"
+ORIGIN      
+        1 gatcctcccc aggcccctac acccaatgtg gaaccggggt cccgaatgaa aatgctgctg
+       61 ttccctggag gtgttttcct ggacgctctg ctttgttacc aatgagaagg gcgctgaatc
+      121 ctcgaaaatc ctgacccttt taattcatgc tcccttactc acgagagatg atgatcgttg
+      181 atatttccct ggactgtgtg gggtctcaga gaccactatg gggcactctc gtcaggcttc
+      241 cgcgaccacg ttccctcatg tttccctatt aacgaagggt gatgatagtg ctaagacggt
+      301 ccctgtacgg tgttgtttct gacagacgtg ttttgggcct tttcgttcca ttgccgccag
+      361 cagttttgac aggatttccc cagggagcaa acttttcgat ggaaacgggt tttggccgaa
+      421 ttgtctttct cagtgctgtg ttcgtcgtgt ttcactcacg gtaccaaaac accttgatta
+      481 ttgttccacc ctccataagg ccgtcgtgac ttcaagggct ttcccctcaa actttgtttc
+      541 ttggttctac gggctg
+//
+
