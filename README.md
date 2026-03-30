@@ -10,4 +10,3 @@ Los contenidos se encuentran organizados por Unidad.
 - 1-Introducción a la bioinformática
 - 2-Bases de datos
 - 3-Introducción a UNIX
-- 4-Datos en bioinformática: adquisición, formatos.
